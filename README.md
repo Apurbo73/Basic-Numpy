@@ -1,6 +1,5 @@
 ﻿# Basic-Numpy
 
-Got it 👍 — let me give you a **clear, simple breakdown of NumPy**:
 
 ---
 
@@ -55,4 +54,4 @@ With plain Python lists, you’d need loops to do this.
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
 
-Would you like me to show you a **visual example** (like a graph of data using NumPy + Matplotlib) so you can *see* how it’s used?
+
