@@ -28,6 +28,9 @@ Example:
 ### Division:
 <img width="856" height="275" alt="image" src="https://github.com/user-attachments/assets/f3fbe5cb-6245-4269-abf4-7236d06188f0" />
 
+### Multiplication:
+
+<img width="672" height="314" alt="image" src="https://github.com/user-attachments/assets/8bc120d0-122c-4d0e-8f2f-baf544b25427" />
 
 import numpy as np
 
@@ -63,6 +66,7 @@ With plain Python lists, you’d need loops to do this.
 ---
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
+
 
 
 
