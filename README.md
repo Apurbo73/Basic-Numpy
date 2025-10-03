@@ -1,4 +1,4 @@
-﻿# Basic-Numpy:
+﻿# Basic Numpy:
 
 
 ---
@@ -53,6 +53,7 @@ With plain Python lists, you’d need loops to do this.
 ---
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
+
 
 
 
