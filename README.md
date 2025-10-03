@@ -17,6 +17,13 @@
 * **Convenience**: You can do math on entire arrays without writing loops.
 
 Example:
+### Addition:
+import numpy as np 
+a= np.array([2,3,4])
+b= np.array([1,2,3])
+print ("The Sum of a and b is ",a+b)
+
+
 
 ```python
 import numpy as np
@@ -53,6 +60,7 @@ With plain Python lists, you’d need loops to do this.
 ---
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
+
 
 
 
