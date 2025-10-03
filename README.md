@@ -22,15 +22,9 @@ Example:
 
 <img width="336" height="160" alt="image" src="https://github.com/user-attachments/assets/4d270a5c-8680-47dd-b350-9d06d828084e" />
 
-import numpy as np
+### Subtraction:
+<img width="559" height="289" alt="image" src="https://github.com/user-attachments/assets/4dcc9e1b-ecae-4eb1-bd2d-a97d7e3c20a6" />
 
-a = np.array([1, 2, 3, 4])
-b = np.array([10, 20, 30, 40])
-
-print(a + b)   # [11 22 33 44]
-print(a * b)   # [10 40 90 160]
-print(a.mean())  # 2.5
-```python
 import numpy as np
 
 a = np.array([1, 2, 3, 4])
@@ -65,6 +59,7 @@ With plain Python lists, you’d need loops to do this.
 ---
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
+
 
 
 
