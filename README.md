@@ -18,10 +18,7 @@
 
 Example:
 ### Addition:
-import numpy as np 
-a= np.array([2,3,4])
-b= np.array([1,2,3])
-print ("The Sum of a and b is ",a+b)
+
 
 <img width="336" height="160" alt="image" src="https://github.com/user-attachments/assets/4d270a5c-8680-47dd-b350-9d06d828084e" />
 
@@ -61,6 +58,7 @@ With plain Python lists, you’d need loops to do this.
 ---
 
 👉 In short: **NumPy = the foundation for numerical and scientific computing in Python.**
+
 
 
 
